@@ -1,9 +1,3 @@
-通过关键词向crossref和schemtic发生查询请求，获取论文数据
-![通过关键词向crossref和schemtic发生查询请求，获取论文数据](example.png)
-
-
-
-
 
 | 检测部位 | 锅炉设备分类 |
 | --- | --- |
